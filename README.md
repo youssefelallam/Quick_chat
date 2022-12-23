@@ -1,16 +1,23 @@
 # quick_msg
 
-A new Flutter project.
+opening whatsapp chat without saving contact.
 
-## Getting Started
+## Used libraries : 
 
-This project is a starting point for a Flutter application.
+.provider
 
-A few resources to get you started if this is your first Flutter project:
+.intl_phone_number_input
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+.url_launcher
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.fluttertoast
+
+##
+
+![1](https://user-images.githubusercontent.com/80406227/209265119-062e7668-fc02-4ad1-bc31-cdb9b800014b.jpg)
+
+
+![2](https://user-images.githubusercontent.com/80406227/209265155-78797900-d0fb-47d8-b485-9ec93e2eee1a.jpg)
+
+
+![3](https://user-images.githubusercontent.com/80406227/209265175-b7c32eab-5672-40d1-8b85-79cd301219ce.jpg)
