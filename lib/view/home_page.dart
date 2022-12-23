@@ -36,6 +36,7 @@ class HomePage extends StatelessWidget {
                               onInputChanged: (PhoneNumber number) {
                                 controller.phoneNumber = number.phoneNumber!;
                               },
+                              initialValue: PhoneNumber(isoCode: 'MA'),
                               selectorConfig: const SelectorConfig(
                                 selectorType: PhoneInputSelectorType.DIALOG,
                               ),
